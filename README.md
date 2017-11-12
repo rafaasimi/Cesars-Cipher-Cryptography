@@ -1,2 +1,2 @@
 # criptografia
-Criptografia utilizando Cifra de César (Linguagem C)
+Criptografia de substituição utilizando Cifra de César e chave privada.
